@@ -2,7 +2,7 @@ package Models;
 
 public enum AccessLevelType  {
 	ADMIN(0),
-	NOADMIN(1);
+	NOTADMIN(1);
 	
 	private final int num;
 	
